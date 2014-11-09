@@ -1,6 +1,4 @@
 repobegin
 =========
 
-learning repository 
-
-we are going to learn it :P
+learning repository we are going to learn it :P
